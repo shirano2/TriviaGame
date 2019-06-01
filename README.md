@@ -2,7 +2,7 @@
 
 This is a quiz game. Just hit the right answer within 12 seconds.
 
-If you think you know well about Marvel Comics, try~!!!
+If you think you know Marvel Comics well, try~!!!
 
 ## Site
 https://shirano2.github.io/TriviaGame/
